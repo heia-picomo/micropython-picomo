@@ -1,0 +1,6 @@
+[submodule "lib/micropython"]
+	path = lib/micropython
+	url = https://github.com/micropython/micropython.git
+[submodule "src/st7789_mpy"]
+	path = src/st7789_mpy
+	url = https://github.com/russhughes/st7789_mpy.git

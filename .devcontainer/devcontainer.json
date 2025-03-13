@@ -6,7 +6,13 @@
     "customizations": {
         "vscode": {
             "settings": {},
-            "extensions": []
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "ms-vscode.cpptools",
+                "ms-python.python",
+                "ms-python.black-formatter",
+                "skellock.just"
+            ]
         }
     }
 }
